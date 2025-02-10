@@ -58,7 +58,7 @@ To set up this project locally, follow these steps:
    git clone https://github.com/Jaimintrv21/JavascriptRNW.git
    cd JavascriptRNW
 
-🚀 Usage
+##🚀 Usage
 This repository serves as a JavaScript learning resource. You can:
 
 Run example files in a browser
@@ -66,7 +66,7 @@ Modify and test JavaScript code
 Use it as a reference for JavaScript concepts
 
 
-🤝 Contributing
+##🤝 Contributing
 Contributions are welcome! Follow these steps to contribute:
 
 1.Fork the repository:
@@ -89,7 +89,7 @@ git push origin feature-branch-name
 5.Create a Pull Request on GitHub.
 
 
-📜 License
+##📜 License
 This project is licensed under the [ Mit license](#MITLicense). See the LICENSE file for details
 
 This version includes *every step with terminal commands
